@@ -1,0 +1,31 @@
+.h1 {
+    text-align: center;
+    font-family: Comic Sans MS;
+    font-size: 40px;
+}
+
+#banner_1{
+    border-radius: 50%;
+    width: 500px;
+}
+
+#banner_1:hover{
+    border-width: 5px;
+    border-style: outset;
+    border-color: blueviolet;
+}
+
+tr, td, th, table {
+    border-width: 2px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+
+td, th {
+    height: 150px;
+    width: 150px;
+}
+
+th {
+    height: 100px;
+}
